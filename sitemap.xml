@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://hashibul.me/</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/blog</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/projects</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/about</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/blog/release-of-tailwind-nextjs-starter-blog-v2.0</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/next-js</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/tailwind</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/guide</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/feature</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/blog/new-features-in-v1</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/blog/nested-route/introducing-multi-part-posts-with-nested-routing</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/multi-author</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/blog/introducing-tailwind-nextjs-starter-blog</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/blog/deriving-ols-estimator</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/math</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/ols</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/markdown</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/code</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/features</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/github</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/holiday</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/canada</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/images</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/writings</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/book</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/reflection</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/blog/page/2</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/blog/the-time-machine</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/blog/pictures-of-canada</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/tags/next-js/page/2</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/blog/guide-to-using-images-in-nextjs</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/blog/github-markdown-guide</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hashibul.me/blog/code-sample</loc>
+  <lastmod>2025-02-17T12:27:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
